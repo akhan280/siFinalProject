@@ -1,0 +1,80 @@
+:root { 
+  --biloba-flower: #c4a8ed;
+  --black: #000000;
+  --white: #ffffff;
+  --wisteria: #caa5f2;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 13px;
+  --font-size-s: 12.5px;
+  --font-size-xl: 16px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 19px;
+  --font-size-xxs: 11px;
+ 
+  --font-family-dutchmediaeval_pro-regular: "dutch-mediaeval-pro", Helvetica;
+  --font-family-graphik-regular: "Graphik-Regular", Helvetica;
+}
+.dutchmediaevalpro-regular-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dutchmediaevalpro-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dutchmediaevalpro-regular-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dutchmediaevalpro-regular-normal-black-11px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dutchmediaevalpro-regular-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dutchmediaevalpro-regular-normal-black-6px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dutchmediaevalpro-regular-normal-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-regular-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}

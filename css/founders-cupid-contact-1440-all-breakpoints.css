@@ -1,0 +1,4561 @@
+/* screen - founders-cupid-contact-1024 */
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+.founders-cupid-contact-1024 {
+  align-items: flex-start;
+  display: flex;
+  height: 827px;
+  padding: 11px;
+  width: 1024px;
+}
+
+.founders-cupid-contact-1024 .overlap-group13-1 {
+  height: 804px;
+  margin-top: 1px;
+  position: relative;
+  width: 1002px;
+}
+
+.founders-cupid-contact-1024 .ellipse-12 {
+  background-color: #ba9e00;
+  top: 16px;
+}
+
+.founders-cupid-contact-1024 .ellipse-18 {
+  background-color: #009f0d;
+  top: 23px;
+}
+
+.founders-cupid-contact-1024 .ellipse-19 {
+  background-color: #009f0d;
+  top: 30px;
+}
+
+.founders-cupid-contact-1024 .rectangle-134 {
+  background-color: var(--white);
+  height: 804px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1002px;
+}
+
+.founders-cupid-contact-1024 .overlap-group1-2 {
+  height: 222px;
+  left: 276px;
+  position: absolute;
+  top: 291px;
+  width: 450px;
+}
+
+.founders-cupid-contact-1024 .group-2110-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  left: 84px;
+  min-height: 119px;
+  position: absolute;
+  top: 52px;
+  width: 284px;
+}
+
+.founders-cupid-contact-1024 .overlap-group-7 {
+  height: 34px;
+  margin-right: 5.93px;
+  position: relative;
+  width: 109px;
+}
+
+.founders-cupid-contact-1024 .email-us-2 {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-1024 .path-202-2 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .path-2 {
+  height: 3px;
+  left: 3px;
+  top: 0;
+  width: 1px;
+}
+
+.founders-cupid-contact-1024 .path-3 {
+  height: 4px;
+  left: 3px;
+  top: 3px;
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-4 {
+  height: 4px;
+  left: 4px;
+  top: 4px;
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-206-2 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-26 {
+  height: 12px;
+  left: 7px;
+  top: 8px;
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .bobbyfounderscupidcom-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 19px;
+  min-width: 284px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-1024 .go-back-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 12.68px;
+  min-height: 13px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-1024 .rectangle-172-2 {
+  border: 1px solid;
+  border-color: var(--biloba-flower);
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 450px;
+}
+
+.founders-cupid-contact-1024 .overlap-group2-2 {
+  height: 43px;
+  left: 12px;
+  position: absolute;
+  top: 13px;
+  width: 39px;
+}
+
+.founders-cupid-contact-1024 .path-57-2 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .path-240-1 {
+  height: 32px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 28px;
+}
+
+.founders-cupid-contact-1024 .image-10-27 {
+  height: 11px;
+  left: 7px;
+  top: 8px;
+  width: 11px;
+}
+
+.founders-cupid-contact-1024 .path-305 {
+  height: 139px;
+  left: 197px;
+  top: 99px;
+  width: 47px;
+}
+
+.founders-cupid-contact-1024 .path-306 {
+  height: 1px;
+  left: 224px;
+  top: 166px;
+  width: 1px;
+}
+
+.founders-cupid-contact-1024 .path-307-1 {
+  height: 142px;
+  left: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 590px;
+  width: 86px;
+}
+
+.founders-cupid-contact-1024 .path-308-1 {
+  height: 55px;
+  left: 168px;
+  object-fit: cover;
+  position: absolute;
+  top: 333px;
+  width: 60px;
+}
+
+.founders-cupid-contact-1024 .path-309-1 {
+  height: 139px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 47px;
+}
+
+.founders-cupid-contact-1024 .path-310-1 {
+  height: 62px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 421px;
+  width: 72px;
+}
+
+.founders-cupid-contact-1024 .group-2150-22 {
+  height: 16px;
+  left: 44px;
+  top: 115px;
+  transform: rotate(172.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group-6 {
+  height: 16px;
+  margin-left: -1px;
+  margin-top: -0.24px;
+  position: relative;
+  width: 17px;
+}
+
+.founders-cupid-contact-1024 .path-301-22 {
+  height: 9px;
+  left: 1px;
+  top: 2px;
+  transform: rotate(-172.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1024 .path-302-22 {
+  height: 3px;
+  left: 3px;
+  top: 0;
+  transform: rotate(-172.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1024 .path-303-22 {
+  height: 3px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-172.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-304-22 {
+  height: 3px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-172.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-28 {
+  height: 9px;
+  left: 7px;
+  top: 6px;
+  transform: rotate(-172.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1024 .group-2150-23 {
+  height: 16px;
+  left: 132px;
+  top: 596px;
+  transform: rotate(262.00deg);
+}
+
+.founders-cupid-contact-1024 .path-301-23 {
+  height: 11px;
+  left: 1px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1024 .path-302-23 {
+  height: 2px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-303-23 {
+  height: 4px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-262.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-304-23 {
+  height: 4px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .image-10-29 {
+  height: 9px;
+  left: 7px;
+  top: 6px;
+  transform: rotate(-262.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1024 .group-2150-24 {
+  height: 16px;
+  left: 253px;
+  top: 576px;
+  transform: rotate(268.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group5-2 {
+  height: 16px;
+  margin-top: -0.11px;
+  position: relative;
+  width: 16px;
+}
+
+.founders-cupid-contact-1024 .path-301-24 {
+  height: 10px;
+  left: 1px;
+  top: 1px;
+  transform: rotate(-268.00deg);
+  width: 8px;
+}
+
+.founders-cupid-contact-1024 .path-302-24 {
+  height: 1px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-268.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-303-24 {
+  height: 4px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-268.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-304-24 {
+  height: 4px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-268.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .image-10-30 {
+  height: 9px;
+  left: 6px;
+  top: 6px;
+  transform: rotate(-268.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1024 .group-2150-25 {
+  height: 16px;
+  left: 125px;
+  top: 423px;
+  transform: rotate(123.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group6-2 {
+  height: 19px;
+  margin-left: -4px;
+  margin-top: -2.62px;
+  position: relative;
+  width: 19px;
+}
+
+.founders-cupid-contact-1024 .path-301-25 {
+  height: 13px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-123.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .path-302-25 {
+  height: 3px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-123.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-303-25 {
+  height: 4px;
+  left: 5px;
+  top: 4px;
+  transform: rotate(-123.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-304-25 {
+  height: 4px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-123.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-31 {
+  height: 8px;
+  left: 11px;
+  top: 10px;
+  transform: rotate(-123.00deg);
+  width: 7px;
+}
+
+.founders-cupid-contact-1024 .group-2150-26 {
+  height: 16px;
+  left: 172px;
+  top: 310px;
+  transform: rotate(223.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group7-1 {
+  height: 19px;
+  margin-left: -4px;
+  margin-top: -3.04px;
+  position: relative;
+  width: 20px;
+}
+
+.founders-cupid-contact-1024 .path-301-26 {
+  height: 13px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(-223.00deg);
+  width: 13px;
+}
+
+.founders-cupid-contact-1024 .path-302-26 {
+  height: 3px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-223.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-303-26 {
+  height: 5px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-223.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1024 .path-304-26 {
+  height: 5px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-223.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1024 .image-10-32 {
+  height: 7px;
+  left: 11px;
+  top: 11px;
+  transform: rotate(-223.00deg);
+  width: 7px;
+}
+
+.founders-cupid-contact-1024 .group-2150-27 {
+  height: 16px;
+  left: 244px;
+  top: 234px;
+  transform: rotate(-1.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group8 {
+  height: 16px;
+  margin-top: -0.08px;
+  position: relative;
+  width: 16px;
+}
+
+.founders-cupid-contact-1024 .path-301-27 {
+  height: 8px;
+  left: 0;
+  top: 2px;
+  transform: rotate(1.00deg);
+  width: 10px;
+}
+
+.founders-cupid-contact-1024 .path-302-27 {
+  height: 3px;
+  left: 2px;
+  top: 0;
+  transform: rotate(1.00deg);
+  width: 1px;
+}
+
+.founders-cupid-contact-1024 .path-303-27 {
+  height: 3px;
+  left: 2px;
+  top: 2px;
+  transform: rotate(1.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-304-27 {
+  height: 3px;
+  left: 1px;
+  top: 1px;
+  transform: rotate(1.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .image-10-33 {
+  height: 9px;
+  left: 6px;
+  top: 6px;
+  transform: rotate(1.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1024 .path-311-1 {
+  height: 43px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 36px;
+}
+
+.founders-cupid-contact-1024 .path-101-2 {
+  height: 107px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 600px;
+  width: 125px;
+}
+
+.founders-cupid-contact-1024 .path-182-2 {
+  height: 136px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 270px;
+  width: 136px;
+}
+
+.founders-cupid-contact-1024 .path-211-2 {
+  height: 40px;
+  left: 913px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 31px;
+}
+
+.founders-cupid-contact-1024 .path-218-2 {
+  height: 81px;
+  left: 723px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 92px;
+}
+
+.founders-cupid-contact-1024 .path-237-2 {
+  height: 76px;
+  left: 871px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 105px;
+}
+
+.founders-cupid-contact-1024 .group-2150-28 {
+  height: 15px;
+  left: 785px;
+  top: 135px;
+  transform: rotate(228.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group9-2 {
+  height: 18px;
+  margin-left: -4px;
+  margin-top: -2.93px;
+  position: relative;
+  width: 19px;
+}
+
+.founders-cupid-contact-1024 .path-301-28 {
+  height: 12px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-228.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .path-302-28 {
+  height: 3px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-228.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-303-28 {
+  height: 4px;
+  left: 5px;
+  top: 4px;
+  transform: rotate(-228.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-304-28 {
+  height: 4px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-228.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-34 {
+  height: 7px;
+  left: 10px;
+  top: 10px;
+  transform: rotate(-228.00deg);
+  width: 7px;
+}
+
+.founders-cupid-contact-1024 .group-2150-29 {
+  height: 15px;
+  left: 871px;
+  top: 82px;
+  transform: rotate(208.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group10-2 {
+  height: 18px;
+  margin-left: -3px;
+  margin-top: -2.14px;
+  position: relative;
+  width: 19px;
+}
+
+.founders-cupid-contact-1024 .path-301-29 {
+  height: 11px;
+  left: 2px;
+  top: 2px;
+  transform: rotate(-208.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .path-302-29 {
+  height: 3px;
+  left: 5px;
+  top: 2px;
+  transform: rotate(-208.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1024 .path-303-29 {
+  height: 4px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-208.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-304-29 {
+  height: 4px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-208.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-35 {
+  height: 7px;
+  left: 9px;
+  top: 9px;
+  transform: rotate(-208.00deg);
+  width: 8px;
+}
+
+.founders-cupid-contact-1024 .group-2150-30 {
+  height: 15px;
+  left: 890px;
+  top: 455px;
+  transform: rotate(115.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group11-2 {
+  height: 17px;
+  margin-left: -3px;
+  margin-top: -1.84px;
+  position: relative;
+  width: 18px;
+}
+
+.founders-cupid-contact-1024 .path-301-30 {
+  height: 12px;
+  left: 2px;
+  top: 2px;
+  transform: rotate(-115.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1024 .path-302-30 {
+  height: 2px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(-115.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .path-303-30 {
+  height: 4px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-115.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-304-30 {
+  height: 4px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(-115.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-36 {
+  height: 8px;
+  left: 9px;
+  top: 8px;
+  transform: rotate(-115.00deg);
+  width: 8px;
+}
+
+.founders-cupid-contact-1024 .group-2150-31 {
+  height: 15px;
+  left: 725px;
+  top: 578px;
+  transform: rotate(203.00deg);
+}
+
+.founders-cupid-contact-1024 .overlap-group12-1 {
+  height: 17px;
+  margin-left: -3px;
+  margin-top: -1.62px;
+  position: relative;
+  width: 18px;
+}
+
+.founders-cupid-contact-1024 .path-301-31 {
+  height: 11px;
+  left: 2px;
+  top: 2px;
+  transform: rotate(-203.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1024 .path-302-31 {
+  height: 3px;
+  left: 4px;
+  top: 1px;
+  transform: rotate(-203.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1024 .path-303-31 {
+  height: 4px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-203.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .path-304-31 {
+  height: 4px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-203.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1024 .image-10-37 {
+  height: 8px;
+  left: 9px;
+  top: 8px;
+  transform: rotate(-203.00deg);
+  width: 8px;
+}
+
+.founders-cupid-contact-1024 .screenshot-2023-03-13-at-30818-pm {
+  height: 22px;
+  left: 750px;
+  object-fit: cover;
+  position: absolute;
+  top: 342px;
+  width: 22px;
+}
+
+.founders-cupid-contact-1024 .ellipse {
+  border-radius: 1.74px;
+  height: 3px;
+  left: 993px;
+  position: absolute;
+  width: 3px;
+}
+
+.founders-cupid-contact-1024 .group-2150 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 15px;
+  position: absolute;
+}
+
+.founders-cupid-contact-1024 .image-10 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1024 .path {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1024 .path-301 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1024 .path-302 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1024 .path-303 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1024 .path-304 {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - founders-cupid-contact-1440-all-breakpoints */
+
+.founders-cupid-contact-1440-all-breakpoints {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  height: 900px;
+  width: 1440px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-row-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 46px;
+  height: 877px;
+  justify-content: flex-end;
+  margin-top: 11px;
+  min-width: 1414px;
+  padding: 13.8px 12.2px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-col-4 {
+  align-items: flex-start;
+  gap: 45px;
+  min-height: 813px;
+  width: 917px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 46px;
+  height: 566px;
+  min-width: 917px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-col-5 {
+  align-items: flex-end;
+  min-height: 566px;
+  width: 421px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 296px;
+  min-width: 421px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-container-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  min-height: 123px;
+  width: 64px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-45 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 56px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group-4 {
+  height: 62px;
+  margin-top: -0.06px;
+  position: relative;
+  width: 56px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-57-1 {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-58-1 {
+  height: 5px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-59-1 {
+  height: 5px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-60-1 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-61-1 {
+  height: 5px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-240 {
+  height: 46px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-13 {
+  height: 16px;
+  left: 10px;
+  top: 11px;
+  width: 16px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-11 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 20px;
+  min-width: 19px;
+  transform: rotate(172.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group-2 {
+  height: 21px;
+  margin-bottom: -0.83px;
+  margin-left: -1px;
+  position: relative;
+  width: 22px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-11 {
+  height: 11px;
+  left: 1px;
+  top: 2px;
+  transform: rotate(-172.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-11 {
+  height: 4px;
+  left: 4px;
+  top: 0;
+  transform: rotate(-172.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-11 {
+  height: 4px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-172.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-11 {
+  height: 4px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(-172.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-14 {
+  height: 12px;
+  left: 9px;
+  top: 8px;
+  transform: rotate(-172.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-309 {
+  height: 181px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 85px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group17-1 {
+  align-items: flex-start;
+  background-image: url(../img/path-305-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 181px;
+  justify-content: flex-end;
+  margin-bottom: 15.1px;
+  margin-left: 159px;
+  min-width: 85px;
+  padding: 64.7px 20.8px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-12 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  margin-bottom: 3.21px;
+  margin-left: 8px;
+  min-width: 19px;
+  transform: rotate(-15.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group7 {
+  height: 22px;
+  margin-left: -2px;
+  margin-top: -0.56px;
+  position: relative;
+  width: 23px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-12 {
+  height: 13px;
+  left: 1px;
+  top: 2px;
+  transform: rotate(15.00deg);
+  width: 15px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-12 {
+  height: 4px;
+  left: 5px;
+  top: 0;
+  transform: rotate(15.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-12 {
+  height: 5px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(15.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-12 {
+  height: 5px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(15.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-15 {
+  height: 12px;
+  left: 10px;
+  top: 8px;
+  transform: rotate(15.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group14 {
+  height: 106px;
+  margin-right: 43.91px;
+  margin-top: 54px;
+  position: relative;
+  width: 101px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-308 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 101px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-13 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 1px;
+  min-width: 19px;
+  position: absolute;
+  top: 0;
+  transform: rotate(223.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group6-1 {
+  height: 24px;
+  margin-left: -5px;
+  margin-top: -3.68px;
+  position: relative;
+  width: 25px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-13 {
+  height: 16px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(-223.00deg);
+  width: 16px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-13 {
+  height: 3px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-223.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-13 {
+  height: 6px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(-223.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-13 {
+  height: 6px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-223.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-16 {
+  height: 9px;
+  left: 14px;
+  top: 13px;
+  transform: rotate(-223.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-row-5 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 1px;
+  margin-left: 115.2px;
+  margin-top: 26px;
+  min-width: 125px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-14 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  margin-top: 8.46px;
+  min-width: 19px;
+  transform: rotate(123.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group5-1 {
+  height: 23px;
+  margin-left: -4px;
+  margin-top: -3.15px;
+  position: relative;
+  width: 25px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-14 {
+  height: 16px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(-123.00deg);
+  width: 15px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-14 {
+  height: 3px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(-123.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-14 {
+  height: 6px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(-123.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-14 {
+  height: 6px;
+  left: 5px;
+  top: 4px;
+  transform: rotate(-123.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-17 {
+  height: 10px;
+  left: 13px;
+  top: 12px;
+  transform: rotate(-123.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-310 {
+  height: 85px;
+  object-fit: cover;
+  width: 105px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group18-1 {
+  height: 222px;
+  margin-bottom: 29.98px;
+  position: relative;
+  width: 450px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2110-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  left: 84px;
+  min-height: 119px;
+  position: absolute;
+  top: 52px;
+  width: 284px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group1-1 {
+  height: 34px;
+  margin-right: 5.93px;
+  position: relative;
+  width: 109px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .email-us-1 {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-202-1 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-203-1 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-204-1 {
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-205-1 {
+  height: 4px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-206-1 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-18 {
+  height: 12px;
+  left: 7px;
+  top: 8px;
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .bobbyfounderscupidcom-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 19px;
+  min-width: 284px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .go-back-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 12.68px;
+  min-height: 13px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .rectangle-172-1 {
+  border: 1px solid;
+  border-color: var(--biloba-flower);
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 450px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 185px;
+  margin-left: 46.08px;
+  min-width: 388px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-col-6 {
+  align-items: flex-start;
+  gap: 3px;
+  margin-bottom: 7.32px;
+  min-height: 78px;
+  width: 55px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-15 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 20px;
+  min-width: 19px;
+  transform: rotate(262.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-15 {
+  height: 14px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-15 {
+  height: 2px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-15 {
+  height: 5px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(-262.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-15 {
+  height: 5px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-19 {
+  height: 12px;
+  left: 9px;
+  top: 8px;
+  transform: rotate(-262.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-311 {
+  height: 55px;
+  object-fit: cover;
+  width: 49px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group16-1 {
+  height: 202px;
+  position: relative;
+  width: 147px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-307 {
+  height: 197px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 147px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-16 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 117px;
+  min-width: 19px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-84.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group4-1 {
+  height: 20px;
+  margin-left: -1px;
+  margin-top: -0.18px;
+  position: relative;
+  width: 21px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-16 {
+  height: 13px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(84.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-16 {
+  height: 2px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(84.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-16 {
+  height: 5px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(84.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-16 {
+  height: 5px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(84.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-20 {
+  height: 12px;
+  left: 9px;
+  top: 8px;
+  transform: rotate(84.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-col-7 {
+  align-items: flex-start;
+  align-self: center;
+  margin-top: 14.83px;
+  min-height: 639px;
+  width: 422px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-17 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 21px;
+  margin-left: 94.56px;
+  min-width: 21px;
+  transform: rotate(208.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group10-1 {
+  height: 25px;
+  margin-left: -4px;
+  margin-top: -2.75px;
+  position: relative;
+  width: 26px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-17 {
+  height: 15px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(-208.00deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-17 {
+  height: 4px;
+  left: 7px;
+  top: 3px;
+  transform: rotate(-208.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-17 {
+  height: 5px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(-208.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-17 {
+  height: 5px;
+  left: 5px;
+  top: 4px;
+  transform: rotate(-208.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-21 {
+  height: 10px;
+  left: 13px;
+  top: 12px;
+  transform: rotate(-208.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-container-3 {
+  height: 403px;
+  margin-left: 0.35px;
+  margin-top: 11px;
+  position: relative;
+  width: 422px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group-5 {
+  height: 387px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-container-1 {
+  height: 335px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-182-1 {
+  height: 233px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 236px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-218-1 {
+  height: 116px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 136px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-237-1 {
+  height: 107px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-211-1 {
+  height: 56px;
+  left: 316px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 54px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-18 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  left: 57px;
+  min-width: 21px;
+  position: absolute;
+  top: 227px;
+  transform: rotate(113.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group-3 {
+  height: 24px;
+  margin-left: -4px;
+  margin-top: -2.02px;
+  position: relative;
+  width: 26px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-18 {
+  height: 16px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-113.00deg);
+  width: 15px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-18 {
+  height: 3px;
+  left: 6px;
+  top: 2px;
+  transform: rotate(-113.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-18 {
+  height: 6px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-113.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-18 {
+  height: 6px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-113.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-22 {
+  height: 12px;
+  left: 13px;
+  top: 11px;
+  transform: rotate(-113.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-19 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  left: 96px;
+  min-width: 21px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(228.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group9-1 {
+  height: 26px;
+  margin-left: -5px;
+  margin-top: -3.85px;
+  position: relative;
+  width: 27px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-19 {
+  height: 17px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-228.00deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-19 {
+  height: 3px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-228.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-19 {
+  height: 6px;
+  left: 7px;
+  top: 6px;
+  transform: rotate(-228.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-19 {
+  height: 6px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-228.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-23 {
+  height: 10px;
+  left: 14px;
+  top: 14px;
+  transform: rotate(-228.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-20 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  left: 289px;
+  min-width: 21px;
+  position: absolute;
+  top: 382px;
+  transform: rotate(115.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .overlap-group11-1 {
+  height: 24px;
+  margin-left: -4px;
+  margin-top: -2.33px;
+  position: relative;
+  width: 26px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-20 {
+  height: 16px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-115.00deg);
+  width: 15px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-20 {
+  height: 3px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(-115.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-20 {
+  height: 6px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-115.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-20 {
+  height: 6px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-115.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-24 {
+  height: 11px;
+  left: 13px;
+  top: 11px;
+  transform: rotate(-115.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .group-2150-21 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  margin-top: 27px;
+  min-width: 21px;
+  transform: rotate(203.00deg);
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301-21 {
+  height: 15px;
+  left: 2px;
+  top: 3px;
+  transform: rotate(-203.00deg);
+  width: 16px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302-21 {
+  height: 4px;
+  left: 6px;
+  top: 2px;
+  transform: rotate(-203.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303-21 {
+  height: 5px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-203.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304-21 {
+  height: 5px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-203.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10-25 {
+  height: 11px;
+  left: 12px;
+  top: 11px;
+  transform: rotate(-203.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-101-1 {
+  height: 150px;
+  margin-left: 14.22px;
+  margin-top: 6px;
+  object-fit: cover;
+  width: 216px;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .image-10 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-301 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-302 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-303 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1440-all-breakpoints .path-304 {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - founders-cupid-contact-1920 */
+
+.founders-cupid-contact-1920 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.founders-cupid-contact-1920 .path {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.founders-cupid-contact-1920 .path-103 {
+  align-self: flex-end;
+  height: 1px;
+  margin-right: 173.98px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.founders-cupid-contact-1920 .overlap-group13 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 1px;
+  min-height: 1054px;
+  padding: 14.1px 18.9px;
+  width: 1897px;
+}
+
+.founders-cupid-contact-1920 .overlap-group-1 {
+  height: 86px;
+  position: relative;
+  width: 70px;
+}
+
+.founders-cupid-contact-1920 .path-57 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.founders-cupid-contact-1920 .path-58 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.founders-cupid-contact-1920 .path-59 {
+  height: 6px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-60 {
+  height: 6px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-61 {
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .c {
+  color: var(--black);
+  font-family: var(--font-family-dutchmediaeval_pro-regular);
+  font-size: 72px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 72px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-1920 .image-10 {
+  height: 19px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 19px;
+}
+
+.founders-cupid-contact-1920 .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 566px;
+  margin-right: 21.24px;
+  min-width: 1693px;
+}
+
+.founders-cupid-contact-1920 .group-2150 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  margin-top: 3.63px;
+  min-width: 23px;
+  transform: rotate(172.00deg);
+}
+
+.founders-cupid-contact-1920 .path-301 {
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-172.00deg);
+  width: 16px;
+}
+
+.founders-cupid-contact-1920 .path-302 {
+  height: 4px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  transform: rotate(-172.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1920 .path-303 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  transform: rotate(-172.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .path-304 {
+  height: 5px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-172.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .image-10-1 {
+  height: 14px;
+  left: 11px;
+  top: 10px;
+  transform: rotate(-172.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-1920 .path-219 {
+  height: 216px;
+  margin-left: 1px;
+  margin-top: 18.07px;
+  object-fit: cover;
+  width: 101px;
+}
+
+.founders-cupid-contact-1920 .group-2150-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  margin-bottom: 76.89px;
+  margin-left: 67px;
+  transform: rotate(123.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group10 {
+  height: 28px;
+  margin-left: -5px;
+  margin-top: -3.63px;
+  position: relative;
+  width: 29px;
+}
+
+.founders-cupid-contact-1920 .path-301-1 {
+  height: 19px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-123.00deg);
+  width: 18px;
+}
+
+.founders-cupid-contact-1920 .path-302-1 {
+  height: 3px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-123.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1920 .path-303-1 {
+  height: 6px;
+  left: 8px;
+  top: 6px;
+  transform: rotate(-123.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-304-1 {
+  height: 6px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-123.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-2 {
+  height: 12px;
+  left: 16px;
+  top: 14px;
+  transform: rotate(-123.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1920 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
+  min-height: 557px;
+  width: 199px;
+}
+
+.founders-cupid-contact-1920 .overlap-group16 {
+  align-items: flex-start;
+  background-image: url(../img/path-115-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 216px;
+  justify-content: flex-end;
+  min-width: 101px;
+  padding: 77.2px 24.9px;
+}
+
+.founders-cupid-contact-1920 .overlap-group18 {
+  height: 126px;
+  margin-right: 19.08px;
+  margin-top: 82px;
+  position: relative;
+  width: 120px;
+}
+
+.founders-cupid-contact-1920 .overlap-group11 {
+  height: 28px;
+  margin-left: -6px;
+  margin-top: -4.26px;
+  position: relative;
+  width: 29px;
+}
+
+.founders-cupid-contact-1920 .image-10-3 {
+  height: 10px;
+  left: 16px;
+  top: 16px;
+  transform: rotate(-223.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-1920 .path-225 {
+  align-self: flex-start;
+  height: 101px;
+  margin-top: 31px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.founders-cupid-contact-1920 .flex-col-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  gap: 3px;
+  margin-left: 10px;
+  min-height: 536px;
+  width: 1267px;
+}
+
+.founders-cupid-contact-1920 .group-2150-3 {
+  align-items: flex-start;
+  margin-right: 218.12px;
+  transform: rotate(203.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group5 {
+  height: 27px;
+  margin-left: -4px;
+  margin-top: -2.19px;
+  position: relative;
+  width: 29px;
+}
+
+.founders-cupid-contact-1920 .path-301-3 {
+  height: 16px;
+  left: 2px;
+  top: 3px;
+  transform: rotate(-203.00deg);
+  width: 18px;
+}
+
+.founders-cupid-contact-1920 .path-302-3 {
+  height: 4px;
+  left: 7px;
+  top: 2px;
+  transform: rotate(-203.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-1920 .path-303-3 {
+  height: 6px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-203.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-304-3 {
+  height: 6px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-203.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-4 {
+  height: 12px;
+  left: 14px;
+  top: 12px;
+  transform: rotate(-203.00deg);
+  width: 13px;
+}
+
+.founders-cupid-contact-1920 .group-container {
+  align-items: center;
+  display: flex;
+  min-width: 1267px;
+}
+
+.founders-cupid-contact-1920 .group-2150-4 {
+  align-items: flex-start;
+  margin-bottom: 185.71px;
+  transform: rotate(-15.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group12 {
+  height: 26px;
+  margin-left: -3px;
+  margin-top: -0.55px;
+  position: relative;
+  width: 28px;
+}
+
+.founders-cupid-contact-1920 .path-301-4 {
+  height: 15px;
+  left: 2px;
+  top: 2px;
+  transform: rotate(15.00deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-1920 .path-302-4 {
+  height: 4px;
+  left: 6px;
+  top: 0;
+  transform: rotate(15.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1920 .path-303-4 {
+  height: 5px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(15.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-304-4 {
+  height: 5px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(15.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-5 {
+  height: 14px;
+  left: 12px;
+  top: 10px;
+  transform: rotate(15.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-1920 .overlap-group15 {
+  align-self: flex-end;
+  height: 282px;
+  margin-bottom: 4.46px;
+  margin-left: 61px;
+  position: relative;
+  width: 544px;
+}
+
+.founders-cupid-contact-1920 .group-2110 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 94px;
+  min-height: 145px;
+  position: absolute;
+  top: 72px;
+  width: 362px;
+}
+
+.founders-cupid-contact-1920 .overlap-group1 {
+  height: 42px;
+  margin-right: 18.02px;
+  position: relative;
+  width: 138px;
+}
+
+.founders-cupid-contact-1920 .email-us {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-1920 .path-202 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 15px;
+}
+
+.founders-cupid-contact-1920 .path-203 {
+  height: 4px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.founders-cupid-contact-1920 .path-204 {
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .path-205 {
+  height: 4px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .path-206 {
+  height: 4px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .image-10-6 {
+  height: 14px;
+  left: 9px;
+  top: 9px;
+  width: 14px;
+}
+
+.founders-cupid-contact-1920 .bobbyfounderscupidcom {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 24px;
+  min-width: 362px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-1920 .go-back {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 16px;
+  min-width: 74px;
+  text-align: center;
+  z-index: 10;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-1920 .rectangle-172 {
+  border: 1px solid;
+  border-color: var(--biloba-flower);
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.founders-cupid-contact-1920 .group-container-1 {
+  height: 509px;
+  margin-left: 46px;
+  position: relative;
+  width: 593px;
+}
+
+.founders-cupid-contact-1920 .overlap-group2 {
+  height: 490px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 593px;
+}
+
+.founders-cupid-contact-1920 .path-container {
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 593px;
+}
+
+.founders-cupid-contact-1920 .path-182 {
+  height: 333px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 337px;
+}
+
+.founders-cupid-contact-1920 .path-218 {
+  height: 149px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 178px;
+}
+
+.founders-cupid-contact-1920 .path-237 {
+  height: 136px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+.founders-cupid-contact-1920 .path-211 {
+  height: 70px;
+  left: 445px;
+  object-fit: cover;
+  position: absolute;
+  top: 420px;
+  width: 76px;
+}
+
+.founders-cupid-contact-1920 .group-2150-5 {
+  align-items: flex-start;
+  left: 70px;
+  position: absolute;
+  top: 289px;
+  transform: rotate(112.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group3 {
+  height: 27px;
+  margin-left: -4px;
+  margin-top: -2.0px;
+  position: relative;
+  width: 29px;
+}
+
+.founders-cupid-contact-1920 .path-301-5 {
+  height: 18px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-112.00deg);
+  width: 16px;
+}
+
+.founders-cupid-contact-1920 .path-302-5 {
+  height: 3px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(-112.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1920 .path-303-5 {
+  height: 6px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-112.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-304-5 {
+  height: 6px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-112.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-7 {
+  height: 13px;
+  left: 14px;
+  top: 12px;
+  transform: rotate(-112.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1920 .group-2150-6 {
+  align-items: flex-start;
+  left: 130px;
+  position: absolute;
+  top: 16px;
+  transform: rotate(227.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group4 {
+  height: 29px;
+  margin-left: -6px;
+  margin-top: -4.26px;
+  position: relative;
+  width: 30px;
+}
+
+.founders-cupid-contact-1920 .path-301-6 {
+  height: 19px;
+  left: 4px;
+  top: 4px;
+  transform: rotate(-227.00deg);
+  width: 19px;
+}
+
+.founders-cupid-contact-1920 .path-302-6 {
+  height: 4px;
+  left: 8px;
+  top: 4px;
+  transform: rotate(-227.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1920 .path-303-6 {
+  height: 7px;
+  left: 8px;
+  top: 6px;
+  transform: rotate(-227.00deg);
+  width: 7px;
+}
+
+.founders-cupid-contact-1920 .path-304-6 {
+  height: 6px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(-227.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-8 {
+  height: 11px;
+  left: 16px;
+  top: 15px;
+  transform: rotate(-227.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1920 .group-2150-7 {
+  align-items: flex-start;
+  left: 409px;
+  position: absolute;
+  top: 485px;
+  transform: rotate(115.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group6 {
+  height: 27px;
+  margin-left: -4px;
+  margin-top: -2.53px;
+  position: relative;
+  width: 29px;
+}
+
+.founders-cupid-contact-1920 .path-301-7 {
+  height: 18px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-115.00deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-1920 .path-302-7 {
+  height: 3px;
+  left: 7px;
+  top: 3px;
+  transform: rotate(-115.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1920 .path-303-7 {
+  height: 6px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(-115.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-304-7 {
+  height: 6px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(-115.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-9 {
+  height: 13px;
+  left: 15px;
+  top: 13px;
+  transform: rotate(-115.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-1920 .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 244px;
+  margin-right: 146.85px;
+  margin-top: 41px;
+  min-width: 1420px;
+}
+
+.founders-cupid-contact-1920 .flex-col-2 {
+  align-items: flex-start;
+  align-self: center;
+  gap: 4px;
+  margin-bottom: 5.28px;
+  min-height: 93px;
+  width: 66px;
+}
+
+.founders-cupid-contact-1920 .group-2150-8 {
+  align-items: flex-end;
+  align-self: flex-end;
+  transform: rotate(262.00deg);
+}
+
+.founders-cupid-contact-1920 .path-301-8 {
+  height: 16px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 13px;
+}
+
+.founders-cupid-contact-1920 .path-302-8 {
+  height: 2px;
+  left: 4px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1920 .path-303-8 {
+  height: 5px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-262.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .path-304-8 {
+  height: 5px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(-262.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .image-10-10 {
+  height: 14px;
+  left: 11px;
+  top: 10px;
+  transform: rotate(-262.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-1920 .overlap-group17 {
+  align-self: flex-end;
+  height: 241px;
+  margin-left: 221px;
+  position: relative;
+  width: 176px;
+}
+
+.founders-cupid-contact-1920 .group-2150-9 {
+  align-items: flex-end;
+  left: 139px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-84.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group9 {
+  height: 24px;
+  margin-bottom: -0.56px;
+  margin-left: -1px;
+  position: relative;
+  width: 25px;
+}
+
+.founders-cupid-contact-1920 .path-301-9 {
+  height: 16px;
+  left: 2px;
+  top: 1px;
+  transform: rotate(84.00deg);
+  width: 13px;
+}
+
+.founders-cupid-contact-1920 .path-302-9 {
+  height: 2px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(84.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-1920 .path-303-9 {
+  height: 5px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(84.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .path-304-9 {
+  height: 5px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(84.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-1920 .image-10-11 {
+  height: 14px;
+  left: 10px;
+  top: 10px;
+  transform: rotate(84.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-1920 .flex-col-3 {
+  align-items: flex-start;
+  gap: 6px;
+  margin-left: 627px;
+  min-height: 219px;
+  width: 330px;
+}
+
+.founders-cupid-contact-1920 .group-2150-10 {
+  align-items: flex-start;
+  transform: rotate(196.00deg);
+}
+
+.founders-cupid-contact-1920 .overlap-group2-1 {
+  height: 25px;
+  margin-left: -3px;
+  margin-top: -0.78px;
+  position: relative;
+  width: 28px;
+}
+
+.founders-cupid-contact-1920 .path-301-10 {
+  height: 15px;
+  left: 2px;
+  top: 2px;
+  transform: rotate(-196.00deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-1920 .path-302-10 {
+  height: 4px;
+  left: 6px;
+  top: 1px;
+  transform: rotate(-196.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-1920 .path-303-10 {
+  height: 5px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(-196.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .path-304-10 {
+  height: 5px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(-196.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-1920 .image-10-12 {
+  height: 13px;
+  left: 12px;
+  top: 11px;
+  transform: rotate(-196.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-1920 .path-101 {
+  align-self: flex-end;
+  height: 190px;
+  object-fit: cover;
+  width: 310px;
+}
+
+.founders-cupid-contact-1920 .flex-col-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.founders-cupid-contact-1920 .group-2150-11 {
+  display: flex;
+  height: 24px;
+  min-width: 23px;
+}
+
+.founders-cupid-contact-1920 .image-10-13 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1920 .path-301-11 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1920 .path-302-11 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1920 .path-303-11 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-1920 .path-304-11 {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - founders-cupid-contact-375 */
+
+.founders-cupid-contact-375 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 847px;
+  width: 375px;
+}
+
+.founders-cupid-contact-375 .path-8 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.founders-cupid-contact-375 .overlap-group9-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-top: 7px;
+  min-height: 833px;
+  padding: 15.9px 8.6px;
+  width: 360px;
+}
+
+.founders-cupid-contact-375 .group-45-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 4.91px;
+  min-width: 44px;
+}
+
+.founders-cupid-contact-375 .overlap-group2-4 {
+  height: 49px;
+  margin-top: -0.06px;
+  position: relative;
+  width: 44px;
+}
+
+.founders-cupid-contact-375 .path-57-4 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.founders-cupid-contact-375 .path-58-2 {
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.founders-cupid-contact-375 .path-59-2 {
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .path-60-2 {
+  height: 4px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .path-61-4 {
+  height: 4px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .path-240-3 {
+  height: 36px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 32px;
+}
+
+.founders-cupid-contact-375 .image-10-49 {
+  height: 13px;
+  left: 8px;
+  top: 9px;
+  width: 13px;
+}
+
+.founders-cupid-contact-375 .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 56px;
+  margin-right: 38.06px;
+  margin-top: 24px;
+  min-width: 122px;
+}
+
+.founders-cupid-contact-375 .group-2150-32 {
+  align-self: flex-end;
+  transform: rotate(6.00deg);
+}
+
+.founders-cupid-contact-375 .overlap-group8-1 {
+  height: 22px;
+  margin-left: -1px;
+  margin-top: -0.18px;
+  position: relative;
+  width: 22px;
+}
+
+.founders-cupid-contact-375 .path-301-32 {
+  height: 12px;
+  left: 1px;
+  top: 2px;
+  transform: rotate(-6.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-375 .path-302-32 {
+  height: 4px;
+  left: 4px;
+  top: 0;
+  transform: rotate(-6.00deg);
+  width: 2px;
+}
+
+.founders-cupid-contact-375 .path-303-32 {
+  height: 4px;
+  left: 4px;
+  top: 3px;
+  transform: rotate(-6.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .path-304-32 {
+  height: 4px;
+  left: 3px;
+  top: 2px;
+  transform: rotate(-6.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .image-10-50 {
+  height: 12px;
+  left: 9px;
+  top: 9px;
+  transform: rotate(-6.00deg);
+  width: 13px;
+}
+
+.founders-cupid-contact-375 .overlap-group-container {
+  align-self: center;
+  height: 166px;
+  margin-right: 0.94px;
+  margin-top: 12px;
+  position: relative;
+  width: 264px;
+}
+
+.founders-cupid-contact-375 .overlap-group10-3 {
+  align-items: flex-start;
+  background-image: url(../img/path-262-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 166px;
+  left: 103px;
+  min-width: 161px;
+  padding: 51.3px 79.5px;
+  position: absolute;
+  top: 0;
+}
+
+.founders-cupid-contact-375 .overlap-group12-2 {
+  height: 130px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 105px;
+}
+
+.founders-cupid-contact-375 .group-2150-33 {
+  left: 76px;
+  position: absolute;
+  top: 0;
+  transform: rotate(225deg);
+}
+
+.founders-cupid-contact-375 .overlap-group6-3 {
+  height: 25px;
+  margin-left: -5px;
+  margin-top: -3.89px;
+  position: relative;
+  width: 27px;
+}
+
+.founders-cupid-contact-375 .path-301-33 {
+  height: 17px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(-225deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-375 .path-302-33 {
+  height: 4px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(-225deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-375 .path-303-33 {
+  height: 6px;
+  left: 8px;
+  top: 6px;
+  transform: rotate(-225deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .path-304-33 {
+  height: 6px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-225deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .image-10-51 {
+  height: 9px;
+  left: 15px;
+  top: 14px;
+  transform: rotate(-225deg);
+  width: 10px;
+}
+
+.founders-cupid-contact-375 .group-2150-34 {
+  left: 76px;
+  position: absolute;
+  top: 101px;
+  transform: rotate(150.00deg);
+}
+
+.founders-cupid-contact-375 .overlap-group7-2 {
+  height: 26px;
+  margin-left: -4px;
+  margin-top: -3.0px;
+  position: relative;
+  width: 27px;
+}
+
+.founders-cupid-contact-375 .path-301-34 {
+  height: 16px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(-150.00deg);
+  width: 17px;
+}
+
+.founders-cupid-contact-375 .path-302-34 {
+  height: 4px;
+  left: 7px;
+  top: 3px;
+  transform: rotate(-150.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-375 .path-303-34 {
+  height: 6px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(-150.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .path-304-34 {
+  height: 6px;
+  left: 5px;
+  top: 4px;
+  transform: rotate(-150.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .image-10-52 {
+  height: 12px;
+  left: 13px;
+  top: 12px;
+  transform: rotate(-150.00deg);
+  width: 11px;
+}
+
+.founders-cupid-contact-375 .group-2110-4 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 34px;
+  min-height: 119px;
+  width: 284px;
+}
+
+.founders-cupid-contact-375 .group-2152 {
+  align-items: flex-end;
+  display: flex;
+  height: 32px;
+  margin-right: 5.93px;
+  min-width: 109px;
+}
+
+.founders-cupid-contact-375 .overlap-group1-4 {
+  height: 34px;
+  margin-bottom: -1.5px;
+  position: relative;
+  width: 109px;
+}
+
+.founders-cupid-contact-375 .email-us-4 {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-375 .overlap-group-10 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.founders-cupid-contact-375 .path-202-4 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.founders-cupid-contact-375 .path-203-2 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.founders-cupid-contact-375 .path-204-2 {
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.founders-cupid-contact-375 .path-205-2 {
+  height: 4px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.founders-cupid-contact-375 .path-206-4 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.founders-cupid-contact-375 .image-10-53 {
+  height: 12px;
+  left: 7px;
+  top: 8px;
+  width: 12px;
+}
+
+.founders-cupid-contact-375 .bobbyfounderscupidcom-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 29px;
+  min-height: 19px;
+  min-width: 284px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-375 .go-back-4 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 12.68px;
+  margin-top: 27px;
+  min-height: 13px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-375 .group-container-4 {
+  height: 210px;
+  margin-top: 84px;
+  position: relative;
+  width: 318px;
+}
+
+.founders-cupid-contact-375 .overlap-group11-3 {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.founders-cupid-contact-375 .path-249 {
+  height: 172px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.founders-cupid-contact-375 .path-211-4 {
+  height: 97px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 100px;
+}
+
+.founders-cupid-contact-375 .path-218-4 {
+  height: 122px;
+  left: 227px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 91px;
+}
+
+.founders-cupid-contact-375 .group-2150-35 {
+  left: 105px;
+  position: absolute;
+  top: 156px;
+  transform: rotate(158.00deg);
+}
+
+.founders-cupid-contact-375 .overlap-group3-2 {
+  height: 24px;
+  margin-left: -4px;
+  margin-top: -1.85px;
+  position: relative;
+  width: 26px;
+}
+
+.founders-cupid-contact-375 .path-301-35 {
+  height: 15px;
+  left: 2px;
+  top: 3px;
+  transform: rotate(-158.00deg);
+  width: 16px;
+}
+
+.founders-cupid-contact-375 .path-302-35 {
+  height: 4px;
+  left: 6px;
+  top: 2px;
+  transform: rotate(-158.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-375 .path-303-35 {
+  height: 5px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(-158.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .path-304-35 {
+  height: 5px;
+  left: 5px;
+  top: 3px;
+  transform: rotate(-158.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .image-10-54 {
+  height: 12px;
+  left: 12px;
+  top: 10px;
+  transform: rotate(-158.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-375 .group-2150-36 {
+  left: 160px;
+  position: absolute;
+  top: 29px;
+  transform: rotate(-54.00deg);
+}
+
+.founders-cupid-contact-375 .overlap-group4-3 {
+  height: 25px;
+  margin-left: -5px;
+  margin-top: -3.56px;
+  position: relative;
+  width: 26px;
+}
+
+.founders-cupid-contact-375 .path-301-36 {
+  height: 17px;
+  left: 3px;
+  top: 3px;
+  transform: rotate(54.00deg);
+  width: 16px;
+}
+
+.founders-cupid-contact-375 .path-302-36 {
+  height: 3px;
+  left: 7px;
+  top: 4px;
+  transform: rotate(54.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-375 .path-303-36 {
+  height: 6px;
+  left: 7px;
+  top: 5px;
+  transform: rotate(54.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .path-304-36 {
+  height: 6px;
+  left: 6px;
+  top: 4px;
+  transform: rotate(54.00deg);
+  width: 6px;
+}
+
+.founders-cupid-contact-375 .image-10-55 {
+  height: 10px;
+  left: 15px;
+  top: 13px;
+  transform: rotate(54.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-375 .group-2150-37 {
+  left: 261px;
+  position: absolute;
+  top: 142px;
+  transform: rotate(72.00deg);
+}
+
+.founders-cupid-contact-375 .overlap-group5-4 {
+  height: 24px;
+  margin-left: -3px;
+  margin-top: -1.14px;
+  position: relative;
+  width: 25px;
+}
+
+.founders-cupid-contact-375 .path-301-37 {
+  height: 16px;
+  left: 3px;
+  top: 1px;
+  transform: rotate(-72.00deg);
+  width: 14px;
+}
+
+.founders-cupid-contact-375 .path-302-37 {
+  height: 2px;
+  left: 5px;
+  top: 2px;
+  transform: rotate(-72.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-375 .path-303-37 {
+  height: 5px;
+  left: 6px;
+  top: 3px;
+  transform: rotate(-72.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .path-304-37 {
+  height: 5px;
+  left: 4px;
+  top: 2px;
+  transform: rotate(-72.00deg);
+  width: 5px;
+}
+
+.founders-cupid-contact-375 .image-10-56 {
+  height: 12px;
+  left: 11px;
+  top: 10px;
+  transform: rotate(-72.00deg);
+  width: 13px;
+}
+
+.founders-cupid-contact-375 .group-2150 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  min-width: 21px;
+}
+
+.founders-cupid-contact-375 .image-10 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-375 .path-301 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-375 .path-302 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-375 .path-303 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.founders-cupid-contact-375 .path-304 {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - founders-cupid-contact-800 */
+
+.founders-cupid-contact-800 {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  height: 827px;
+  width: 800px;
+}
+
+.founders-cupid-contact-800 .path-70 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.founders-cupid-contact-800 .overlap-group5-3 {
+  height: 824px;
+  margin-top: -8.41px;
+  position: relative;
+  width: 777px;
+}
+
+.founders-cupid-contact-800 .overlap-group4-2 {
+  height: 824px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 777px;
+}
+
+.founders-cupid-contact-800 .rectangle-134-1 {
+  background-color: var(--white);
+  height: 804px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 777px;
+}
+
+.founders-cupid-contact-800 .path-70-1 {
+  height: 1px;
+  left: 506px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.founders-cupid-contact-800 .path-71 {
+  height: 10px;
+  left: 541px;
+  object-fit: cover;
+  position: absolute;
+  top: 628px;
+  width: 9px;
+}
+
+.founders-cupid-contact-800 .path-72 {
+  height: 2px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 635px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-73 {
+  height: 4px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 633px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-74 {
+  height: 4px;
+  left: 544px;
+  object-fit: cover;
+  position: absolute;
+  top: 632px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-75 {
+  height: 4px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 634px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-101-3 {
+  height: 114px;
+  left: 549px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 185px;
+}
+
+.founders-cupid-contact-800 .image-10-39 {
+  height: 8px;
+  left: 538px;
+  top: 623px;
+  width: 9px;
+}
+
+.founders-cupid-contact-800 .path-177 {
+  height: 11px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 11px;
+}
+
+.founders-cupid-contact-800 .path-178 {
+  height: 2px;
+  left: 291px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-179 {
+  height: 4px;
+  left: 289px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-180 {
+  height: 4px;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-181 {
+  height: 4px;
+  left: 290px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-40 {
+  height: 7px;
+  left: 281px;
+  top: 111px;
+  width: 7px;
+}
+
+.founders-cupid-contact-800 .path-182-3 {
+  height: 199px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 202px;
+}
+
+.founders-cupid-contact-800 .group-2102 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  justify-content: flex-end;
+  left: 532px;
+  min-width: 10px;
+  position: absolute;
+  top: 143px;
+  transform: rotate(171.00deg);
+}
+
+.founders-cupid-contact-800 .overlap-group-8 {
+  height: 17px;
+  margin-top: -1.09px;
+  position: relative;
+  width: 13px;
+}
+
+.founders-cupid-contact-800 .path-212 {
+  height: 11px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-171.00deg);
+  width: 12px;
+}
+
+.founders-cupid-contact-800 .path-213 {
+  height: 3px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-171.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-214 {
+  height: 4px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-171.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-215 {
+  height: 4px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-171.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-216 {
+  height: 4px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-171.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-41 {
+  height: 6px;
+  left: 3px;
+  top: 10px;
+  transform: rotate(-171.00deg);
+  width: 7px;
+}
+
+.founders-cupid-contact-800 .path-218-3 {
+  height: 90px;
+  left: 453px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 107px;
+}
+
+.founders-cupid-contact-800 .group-2105 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  justify-content: flex-end;
+  left: 588px;
+  min-width: 13px;
+  position: absolute;
+  top: 97px;
+  transform: rotate(10.00deg);
+}
+
+.founders-cupid-contact-800 .overlap-group1-3 {
+  height: 17px;
+  margin-top: -0.51px;
+  position: relative;
+  width: 14px;
+}
+
+.founders-cupid-contact-800 .path-232 {
+  height: 11px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  transform: rotate(-10.00deg);
+  width: 10px;
+}
+
+.founders-cupid-contact-800 .path-233 {
+  height: 2px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  transform: rotate(-10.00deg);
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-234 {
+  height: 4px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-10.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-235 {
+  height: 4px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-10.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-236 {
+  height: 4px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-10.00deg);
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-42 {
+  height: 8px;
+  left: 1px;
+  top: 1px;
+  transform: rotate(-10.00deg);
+  width: 8px;
+}
+
+.founders-cupid-contact-800 .path-237-3 {
+  height: 81px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 144px;
+}
+
+.founders-cupid-contact-800 .path-91 {
+  height: 11px;
+  left: 651px;
+  object-fit: cover;
+  position: absolute;
+  top: 536px;
+  width: 10px;
+}
+
+.founders-cupid-contact-800 .path-92 {
+  height: 2px;
+  left: 659px;
+  object-fit: cover;
+  position: absolute;
+  top: 540px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-93 {
+  height: 4px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-94 {
+  height: 4px;
+  left: 655px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-95 {
+  height: 4px;
+  left: 657px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-43 {
+  height: 8px;
+  left: 646px;
+  top: 540px;
+  width: 7px;
+}
+
+.founders-cupid-contact-800 .path-211-3 {
+  height: 42px;
+  left: 669px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 46px;
+}
+
+.founders-cupid-contact-800 .path-96 {
+  height: 8px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 7px;
+}
+
+.founders-cupid-contact-800 .path-97 {
+  height: 1px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 2px;
+}
+
+.founders-cupid-contact-800 .path-98 {
+  height: 3px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-99 {
+  height: 3px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 641px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .path-100 {
+  height: 3px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 643px;
+  width: 3px;
+}
+
+.founders-cupid-contact-800 .image-10-44 {
+  height: 7px;
+  left: 126px;
+  top: 634px;
+  width: 7px;
+}
+
+.founders-cupid-contact-800 .path-115 {
+  height: 113px;
+  left: 163px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 53px;
+}
+
+.founders-cupid-contact-800 .group-2100 {
+  height: 14px;
+  left: 225px;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  transform: rotate(135deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-800 .path-121 {
+  height: 1px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 1px;
+}
+
+.founders-cupid-contact-800 .path-130 {
+  height: 9px;
+  left: 269px;
+  object-fit: cover;
+  position: absolute;
+  top: 640px;
+  width: 11px;
+}
+
+.founders-cupid-contact-800 .path-131 {
+  height: 3px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 2px;
+}
+
+.founders-cupid-contact-800 .path-132 {
+  height: 3px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-133 {
+  height: 3px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-134 {
+  height: 3px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 646px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-45 {
+  height: 9px;
+  left: 275px;
+  top: 637px;
+  width: 9px;
+}
+
+.founders-cupid-contact-800 .path-135-1 {
+  height: 123px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 641px;
+  width: 92px;
+}
+
+.founders-cupid-contact-800 .path-136 {
+  height: 10px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 373px;
+  width: 10px;
+}
+
+.founders-cupid-contact-800 .path-137 {
+  height: 2px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 381px;
+  width: 2px;
+}
+
+.founders-cupid-contact-800 .path-138 {
+  height: 4px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 378px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-139 {
+  height: 4px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-140 {
+  height: 4px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-46 {
+  height: 6px;
+  left: 87px;
+  top: 369px;
+  width: 6px;
+}
+
+.founders-cupid-contact-800 .path-210-1 {
+  height: 58px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 63px;
+}
+
+.founders-cupid-contact-800 .path-219-1 {
+  height: 113px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 211px;
+  width: 53px;
+}
+
+.founders-cupid-contact-800 .group-2103 {
+  height: 14px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  transform: rotate(-45.00deg);
+  width: 9px;
+}
+
+.founders-cupid-contact-800 .path-220 {
+  height: 10px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 475px;
+  width: 10px;
+}
+
+.founders-cupid-contact-800 .path-221 {
+  height: 2px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 480px;
+  width: 2px;
+}
+
+.founders-cupid-contact-800 .path-222 {
+  height: 4px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 479px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-223 {
+  height: 4px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 479px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-224 {
+  height: 4px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 479px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-38 {
+  height: 6px;
+  left: 60px;
+  top: 479px;
+  width: 5px;
+}
+
+.founders-cupid-contact-800 .path-225-1 {
+  height: 53px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 470px;
+  width: 65px;
+}
+
+.founders-cupid-contact-800 .path-241 {
+  height: 66px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 37px;
+}
+
+.founders-cupid-contact-800 .overlap-group2-3 {
+  height: 222px;
+  left: 170px;
+  position: absolute;
+  top: 316px;
+  width: 450px;
+}
+
+.founders-cupid-contact-800 .group-2110-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  left: 84px;
+  min-height: 119px;
+  position: absolute;
+  top: 52px;
+  width: 284px;
+}
+
+.founders-cupid-contact-800 .overlap-group-9 {
+  height: 34px;
+  margin-right: 5.93px;
+  position: relative;
+  width: 109px;
+}
+
+.founders-cupid-contact-800 .email-us-3 {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-800 .path-202-3 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.founders-cupid-contact-800 .path-5 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.founders-cupid-contact-800 .path-6 {
+  height: 4px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-7 {
+  height: 4px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .path-206-3 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.founders-cupid-contact-800 .image-10-47 {
+  height: 12px;
+  left: 7px;
+  top: 8px;
+  width: 12px;
+}
+
+.founders-cupid-contact-800 .bobbyfounderscupidcom-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 19px;
+  min-width: 284px;
+  text-align: center;
+  z-index: 10;
+  white-space: nowrap;
+}
+
+.founders-cupid-contact-800 .go-back-3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 12.68px;
+  min-height: 13px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.founders-cupid-contact-800 .rectangle-172-3 {
+  border: 1px solid;
+  border-color: var(--biloba-flower);
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 450px;
+}
+
+.founders-cupid-contact-800 .group-45-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 43px;
+  left: 9px;
+  min-width: 39px;
+  position: absolute;
+  top: 30px;
+}
+
+.founders-cupid-contact-800 .overlap-group3-1 {
+  height: 43px;
+  margin-top: -0.06px;
+  position: relative;
+  width: 39px;
+}
+
+.founders-cupid-contact-800 .path-57-3 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.founders-cupid-contact-800 .image-10-48 {
+  height: 11px;
+  left: 7px;
+  top: 8px;
+  width: 11px;
+}
+
+.founders-cupid-contact-800 .path-103-1 {
+  height: 1px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.founders-cupid-contact-800 .image-10 {
+  object-fit: cover;
+  position: absolute;
+}
+@media screen and (max-width: 799px) {
+  .screen.founders-cupid-contact-1920 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1440-all-breakpoints { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1024 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-800 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 800px) and (max-width: 1023px) {
+  .screen.founders-cupid-contact-1920 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1440-all-breakpoints { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1024 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .screen.founders-cupid-contact-1920 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1440-all-breakpoints { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-800 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) and (max-width: 1919px) {
+  .screen.founders-cupid-contact-1920 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1024 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-800 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.founders-cupid-contact-1440-all-breakpoints { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-1024 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-800 { 
+    display: none;
+   }
+  .screen.founders-cupid-contact-375 { 
+    display: none;
+   }
+}
